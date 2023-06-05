@@ -1,0 +1,20 @@
+{
+  "name": "ryumajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/sword.js",
+  "scripts": {
+    "test": "nodemon src/sword.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.43",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.3",
+    "nodemon": "^2.0.22"
+  }
+}
